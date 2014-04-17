@@ -124,5 +124,5 @@ try {
 		}
 	}	
 }catch (Exception $e){
-	echo "Error is $e";
+	echo "Error $e";
 }
